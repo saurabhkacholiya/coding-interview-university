@@ -254,11 +254,11 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 - [x] Cracking The Coding Interview Set 1:
   - [x] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
   - [x] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
-- [ ] Cracking the Facebook Coding Interview:
-  - [ ] [The Approach](https://www.youtube.com/watch?v=wCl9kvQGHPI)
-  - [ ] [Problem Walkthrough](https://www.youtube.com/watch?v=4UWDyJq8jZg)
-- [ ] Prep Course:
-  - [ ] [Grokking the Behavioral Interview (Educative free course)](https://www.educative.io/courses/grokking-the-behavioral-interview): - Many times, it’s not your technical competency that holds you back from landing your dream job, it’s how you perform on the behavioral interview.
+- [x] Cracking the Facebook Coding Interview:
+  - [x] [The Approach](https://www.youtube.com/watch?v=wCl9kvQGHPI)
+  - [x] [Problem Walkthrough](https://www.youtube.com/watch?v=4UWDyJq8jZg)
+- [x] Prep Course:
+  - [x] [Grokking the Behavioral Interview (Educative free course)](https://www.educative.io/courses/grokking-the-behavioral-interview): - Many times, it’s not your technical competency that holds you back from landing your dream job, it’s how you perform on the behavioral interview.
 
 ### Interview Prep
 
